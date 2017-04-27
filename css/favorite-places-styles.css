@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+h2{
+  color: blue;
+  font-family: fantasy;
+}
+
+ul {
+  color: pink;
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+ol {
+  color: purple;
+  font-family: fantasy;
+}
